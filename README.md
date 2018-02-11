@@ -1,5 +1,5 @@
 # ile
-Widgets for the AwesomeWM
+Widgets for AwesomeWM
 
 Some widget I'm using with my customized version of lain.
 
